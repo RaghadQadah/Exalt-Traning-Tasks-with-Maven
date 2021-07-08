@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personList>
+    <person>
+        <age>22</age>
+        <id>2</id>
+        <jobs>Student</jobs>
+        <name>RaghadBQ</name>
+    </person>
+    <person>
+        <age>11</age>
+        <id>1</id>
+        <jobs>Student</jobs>
+        <name>RBQ</name>
+    </person>
+</personList>
