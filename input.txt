@@ -1,2 +1,2 @@
-The person with id 2 have a name RaghadBQ is working as a Student, he is 22 years old.
-I am RBQ with age 11, my job is Student with id 1
+My name is RaghadBQ, My ID is 2, I am a Student of 22 years old 
+I am RBQ, I am a Student of age 11, My ID is 1
